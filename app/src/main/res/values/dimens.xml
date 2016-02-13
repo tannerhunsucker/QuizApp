@@ -6,4 +6,5 @@
     <dimen name="textSize">100px</dimen>
     <dimen name="buttonHeight">300px</dimen>
     <dimen name="buttonText">75px</dimen>
+    <dimen name="questionTextSize">50px</dimen>
 </resources>
