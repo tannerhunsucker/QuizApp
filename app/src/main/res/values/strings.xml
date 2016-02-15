@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">Quiz App</string>
-    <string name="BeginQuiz">Begin Quiz!</string>
+    <string name="BeginQuiz">To begin quiz, press below:</string>
     <string name="start">Start!</string>
     <string name="question1">What animal is this?</string>
     <string name="answer">Enter Here</string>
     <string name="nextQuestion">Next Question</string>
+    <string name="question2">What is the capital of Wisconsin?</string>
+    <string name="milwaukee">Milwaukee</string>
+    <string name="madison">Madison</string>
+    <string name="greenBay">Green Bay</string>
+    <string name="kenosha">Kenosha</string>
+    <string name="submit">Submit</string>
 </resources>

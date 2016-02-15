@@ -31,5 +31,8 @@
         android:layout_centerHorizontal="true"
         android:textSize="@dimen/buttonText"
         android:textColor="#fcf8f8"
-        android:background="#f70707" />
+        android:background="#f70707"
+        android:onClick="playPressed"/>
+
+
 </RelativeLayout>
